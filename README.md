@@ -1,16 +1,11 @@
 # tokokita
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/b1326b0a-8b19-4e3e-a881-843e460b8313)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/a2f9367c-615e-4d81-8efa-dacdc9b850fc)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/f610e000-19fb-4bc7-a666-74c9aa4a0ceb)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/58c44f3b-a7e7-4eec-a06c-e8e08f9ba944)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/1275450a-1bd2-4b3a-bfc6-81a61d35318a)
